@@ -32,7 +32,7 @@
 							<h2>Instructions</h2>
 							<ol>
 								<li>Fork and clone the following GitHub repository, and create a new project and deployment.<br>
-									<a href="https://github.com/rlewis2892/css-mockup-activity" target="_blank">https://github.com/rlewis2892/css-mockup-activity</a></li>
+									<a href="https://github.com/rlewis2892/css-challenge" target="_blank">https://github.com/rlewis2892/css-challenge</a></li>
 								<li>Edit the stylesheet, adding CSS to make the page look like the mockup. <a href="images/mockup.png" target="_blank">Mockup Image</a></li>
 								<li>Have fun! The solution will be demonstrated in class. <small>(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</small></li>
 							</ol>
