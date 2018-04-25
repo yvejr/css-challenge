@@ -61,3 +61,12 @@ body { width: 100%;}
 * * Pseudo Classes
 * * Attribute Selectors
 ******************************************************/
+
+
+.about-me {
+    background: blue;
+}
+
+.instructions-wrapper {
+    border: 5px solid #000;
+}
