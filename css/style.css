@@ -70,3 +70,7 @@ body { width: 100%;}
 .instructions-wrapper {
     border: 5px solid #000;
 }
+
+header {
+	background: #404144
+}
