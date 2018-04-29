@@ -61,16 +61,24 @@ body { width: 100%;}
 * * Pseudo Classes
 * * Attribute Selectors
 ******************************************************/
-
-
+body {
+    font-family: courier;
+}
 .about-me {
     background: blue;
+    color: white;
 }
-
 .instructions-wrapper {
     border: 5px solid #000;
+    display: flex;
+    margin: 60px auto;
 }
-
 header {
 	background: #404144
+    color: #00f606;
+    display: flex;
+    padding: 1em;
+}
+header em {
+    text-anchor: middle;
 }
