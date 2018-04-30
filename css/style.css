@@ -62,7 +62,7 @@ body { width: 100%;}
 * * Attribute Selectors
 ******************************************************/
 body {
-    font-family: courier;
+    font-family: "Courier New";
 }
 .about-me {
     background: blue;
@@ -74,7 +74,7 @@ body {
     margin: 60px auto;
 }
 header {
-	background: #404144
+	background-color: #404144;
     color: #00f606;
     display: flex;
     padding: 1em;
