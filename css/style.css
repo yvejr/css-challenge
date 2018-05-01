@@ -95,3 +95,22 @@ footer {
 	text-align: center;
 	padding: 1em;
 }
+section .container .form-wrapper{
+	display: flex;
+	background: lime;
+	color: greenyellow;
+}
+form{
+	flex-direction: column;
+}
+section  .container .form-wrapper{
+	background-color: limegreen;
+	display: flex;
+	flex-direction: column;
+}
+section .container .form-wrapper div {
+	display: flex;
+	flex-direction: column;
+	padding: 1.2em;
+}
+
