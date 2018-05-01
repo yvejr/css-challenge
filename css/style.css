@@ -71,14 +71,21 @@ body {
 .instructions-wrapper {
     border: 5px solid #000;
     display: flex;
-    margin: 60px auto;
+    margin: 10px auto;
 }
 header {
-	background-color: #404144;
+	/*Make parent element header a flex container*/
+	display: flex;
+	background-color: #333232;
     color: #00f606;
-    display: flex;
-    padding: 1em;
+	text-align: left;
+	font-size: x-large;
 }
-header em {
-    text-anchor: middle;
+h1 {
+	display: inline-flex;
+}
+em {
+	display: inline-flex;
+	font-size: large;
+	padding: 1em;
 }
