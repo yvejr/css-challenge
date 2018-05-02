@@ -114,3 +114,7 @@ section .container .form-wrapper div {
 	padding: 1.2em;
 }
 
+img[alt="welcome to my homepage"] {
+	display: block;
+	margin: 0 auto;
+}
